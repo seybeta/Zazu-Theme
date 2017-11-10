@@ -1,0 +1,10 @@
+{
+  "name": "clean-dark-theme",
+  "version": "1.0.0",
+  "description": "A clean dark theme for Zazu.",
+  "author": "Nahuel Scotti",
+  "license": "MIT",
+  "dependencies": {
+    
+  }
+}
